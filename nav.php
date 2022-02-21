@@ -13,7 +13,7 @@
           <a class="nav-link" href="#">Dashboard</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Upload Books</a>
+          <a class="nav-link" href="uploadbook.php">Upload Books</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Profile</a>
